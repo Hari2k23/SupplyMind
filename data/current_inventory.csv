@@ -1,0 +1,21 @@
+item_code,item_name,current_quantity,reorder_point,max_capacity,unit,warehouse_location,last_updated,safety_stock,category,lead_time_days
+ITM001,M8 Screws,11302,200,10000,pieces,Warehouse B - Rack 18,2026-02-15,50.0,,7.0
+ITM002,M10 Bolts,150,200,10000,pieces,Warehouse A - Rack 8,2026-01-29,50.0,,7.0
+ITM003,Steel Plates,50,100,10000,pieces,Warehouse A - Rack 48,2026-01-30,25.0,,10.0
+ITM004,Aluminum Sheets,0,100,10000,pieces,Warehouse A - Rack 48,2026-01-25,20.0,,7.0
+ITM005,Bearings,2100,500,10000,pieces,Warehouse C - Rack 38,2026-02-15,100.0,,7.0
+ITM006,Gears,200,200,10000,pieces,Warehouse A - Rack 19,2026-01-29,50.0,,7.0
+ITM007,Lubricant Oil,250,100,10000,pieces,Warehouse A - Rack 20,2026-02-01,25.0,,2.0
+ITM008,Cleaning Solvent,100,300,10000,pieces,Warehouse A - Rack 18,2026-02-01,75.0,,30.0
+ITM009,Circuit Boards,300,250,10000,pieces,Warehouse C - Rack 19,2026-01-30,50.0,,7.0
+ITM010,Sensors,5000,800,10000,pieces,Warehouse B - Rack 7,2026-02-01,200.0,,7.0
+ITM011,Cardboard Boxes,80,50,10000,pieces,Warehouse B - Rack 31,2026-01-25,10.0,,5.0
+ITM012,Bubble Wrap,200,400,1000,pieces,Warehouse B - Rack 12,2026-02-01,100.0,,7.0
+ITM013,Drill Bits,500,800,10000,pieces,Warehouse B - Rack 8,2026-01-31,200.0,,14.0
+ITM014,Wrenches,80,50,10000,pieces,Warehouse B - Rack 5,2026-02-01,10.0,,7.0
+ITM015,Safety Gloves,550,500,10000,pieces,Warehouse A - Rack 37,2026-01-28,100.0,,7.0
+ITM016,Hard Hats,20,100,10000,pieces,Warehouse A - Rack 8,2026-01-26,25.0,,7.0
+ITM017,Adhesive,1200,800,10000,pieces,Warehouse C - Rack 40,2026-01-29,200.0,,10.0
+ITM018,Paint,10,500,10000,pieces,Warehouse B - Rack 29,2026-01-25,100.0,,14.0
+ITM019,Rubber Gaskets,300,500,10000,pieces,Warehouse C - Rack 28,2026-01-28,100.0,,7.0
+ITM020,O-Rings,800,200,10000,pieces,Warehouse C - Rack 4,2026-01-31,50.0,,7.0

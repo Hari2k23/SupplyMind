@@ -1,0 +1,353 @@
+{
+  "GR-PO-INT-TEST-002-20260215_145011": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_145011",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 14:50:08",
+    "exception_action": "escalate_to_manager",
+    "financial_impact": 780.0
+  },
+  "GR-PO-INT-TEST-002-20260215_145805": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_145805",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 14:58:02",
+    "exception_action": "escalate_to_manager",
+    "financial_impact": 780.0
+  },
+  "GR-PO-INT-TEST-002-20260215_151926": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_151926",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 15:19:23",
+    "exception_action": "escalate_to_manager",
+    "financial_impact": 780.0
+  },
+  "GR-PO-INT-TEST-002-20260215_152029": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_152029",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 15:20:24",
+    "exception_action": "reject_shipment",
+    "financial_impact": 780.0
+  },
+  "GR-PO-INT-TEST-002-20260215_152136": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_152136",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 15:21:30",
+    "exception_action": "reject_shipment",
+    "financial_impact": 780.0
+  },
+  "GR-PO-INT-TEST-002-20260215_152251": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_152251",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 15:22:45",
+    "exception_action": "reject_shipment",
+    "financial_impact": 780.0
+  },
+  "GR-PO-ITM001-20260215_154119-20260215_154123": {
+    "receipt_id": "GR-PO-ITM001-20260215_154119-20260215_154123",
+    "po_number": "PO-ITM001-20260215_154119",
+    "supplier_name": "NextGen Components",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1051,
+    "received_quantity": 1051,
+    "unit_price": 7.8,
+    "total_cost": 8197.8,
+    "verification_status": "PASS",
+    "mismatch_count": 0,
+    "mismatches": [],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 15:41:19",
+    "exception_action": null,
+    "financial_impact": 0.0
+  },
+  "GR-PO-INT-TEST-002-20260215_154128": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_154128",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 15:41:23",
+    "exception_action": "reject_shipment",
+    "financial_impact": 780.0
+  },
+  "GR-PO-ITM001-20260215_160642-20260215_160646": {
+    "receipt_id": "GR-PO-ITM001-20260215_160642-20260215_160646",
+    "po_number": "PO-ITM001-20260215_160642",
+    "supplier_name": "NextGen Components",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1051,
+    "received_quantity": 1051,
+    "unit_price": 7.8,
+    "total_cost": 8197.8,
+    "verification_status": "PASS",
+    "mismatch_count": 0,
+    "mismatches": [],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 16:06:42",
+    "exception_action": null,
+    "financial_impact": 0.0
+  },
+  "GR-PO-INT-TEST-002-20260215_160653": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_160653",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 16:06:46",
+    "exception_action": "reject_shipment",
+    "financial_impact": 780.0
+  },
+  "GR-PO-ITM001-20260215_163711-20260215_163714": {
+    "receipt_id": "GR-PO-ITM001-20260215_163711-20260215_163714",
+    "po_number": "PO-ITM001-20260215_163711",
+    "supplier_name": "NextGen Components",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 100,
+    "received_quantity": 100,
+    "unit_price": 7.8,
+    "total_cost": 780.0,
+    "verification_status": "PASS",
+    "mismatch_count": 0,
+    "mismatches": [],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 16:37:11",
+    "exception_action": null,
+    "financial_impact": 0.0
+  },
+  "GR-PO-INT-TEST-002-20260215_163722": {
+    "receipt_id": "GR-PO-INT-TEST-002-20260215_163722",
+    "po_number": "PO-INT-TEST-002",
+    "supplier_name": "Test Supplier",
+    "item_code": "ITM001",
+    "item_name": "M8 Screws",
+    "ordered_quantity": 1000,
+    "received_quantity": 900,
+    "unit_price": 7.8,
+    "total_cost": 7800.0,
+    "verification_status": "FAIL",
+    "mismatch_count": 2,
+    "mismatches": [
+      {
+        "field": "quantity",
+        "po_value": 1000,
+        "delivery_value": 900,
+        "invoice_value": 900
+      },
+      {
+        "field": "total_amount",
+        "po_value": 7800.0,
+        "delivery_value": "N/A",
+        "invoice_value": 7020.0
+      }
+    ],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 16:37:14",
+    "exception_action": "reject_shipment",
+    "financial_impact": 780.0
+  },
+  "GR-PO-QUAL-TEST-003-20260215_165423": {
+    "receipt_id": "GR-PO-QUAL-TEST-003-20260215_165423",
+    "po_number": "PO-QUAL-TEST-003",
+    "supplier_name": "QualitySupplies Ltd",
+    "item_code": "ITM005",
+    "item_name": "Steel Plates",
+    "ordered_quantity": 100,
+    "received_quantity": 100,
+    "unit_price": 15.0,
+    "total_cost": 1500.0,
+    "verification_status": "PASS",
+    "mismatch_count": 0,
+    "mismatches": [],
+    "received_date": "2026-02-15",
+    "verified_at": "2026-02-15 16:54:17",
+    "exception_action": "reject_shipment",
+    "financial_impact": 0.0
+  }
+}

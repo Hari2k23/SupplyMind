@@ -1,0 +1,23 @@
+department,category,budget_allocated,budget_used,budget_remaining,fiscal_year,last_updated
+Production,Raw Materials,5000000,3450000,1550000,2024-2025,2024-12-06
+Production,Fasteners & Hardware,800000,520000,280000,2024-2025,2024-12-06
+Production,Industrial Fluids,600000,385000,215000,2024-2025,2024-12-06
+Production,Metal Sheets,1200000,890000,310000,2024-2025,2024-12-06
+Production,Precision Components,900000,650000,250000,2024-2025,2024-12-05
+Maintenance,Spare Parts,1200000,740000,460000,2024-2025,2024-12-05
+Maintenance,Tools & Equipment,450000,280000,170000,2024-2025,2024-12-05
+Maintenance,Lubricants & Oils,300000,195000,105000,2024-2025,2024-12-05
+Maintenance,Bearings & Parts,400000,275000,125000,2024-2025,2024-12-04
+Electrical,Motors & Drives,950000,620000,330000,2024-2025,2024-12-04
+Electrical,Cables & Wires,400000,255000,145000,2024-2025,2024-12-04
+Electrical,Control Systems,650000,420000,230000,2024-2025,2024-12-04
+Electrical,Electrical Components,500000,340000,160000,2024-2025,2024-12-03
+Safety,PPE Equipment,350000,210000,140000,2024-2025,2024-12-06
+Safety,Safety Devices,200000,125000,75000,2024-2025,2024-12-06
+Safety,Safety Equipment,300000,195000,105000,2024-2025,2024-12-05
+Operations,General Supplies,500000,320000,180000,2024-2025,2024-12-05
+Operations,Office Supplies,150000,95000,55000,2024-2025,2024-12-05
+Operations,Industrial Paints,350000,240000,110000,2024-2025,2024-12-04
+Quality Control,Testing Equipment,300000,180000,120000,2024-2025,2024-12-03
+Quality Control,Inspection Tools,200000,130000,70000,2024-2025,2024-12-03
+Quality Control,Measurement Devices,250000,165000,85000,2024-2025,2024-12-02

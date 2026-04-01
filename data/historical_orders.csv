@@ -1,0 +1,481 @@
+order_date,item_code,item_name,quantity_ordered,unit,supplier,order_status
+2024-01-01,ITM001,M8 Screws,2433,pieces,Supplier_A,completed
+2024-01-31,ITM001,M8 Screws,2390,pieces,Supplier_A,completed
+2024-03-01,ITM001,M8 Screws,2443,pieces,Supplier_C,completed
+2024-03-31,ITM001,M8 Screws,2501,pieces,Supplier_B,completed
+2024-04-30,ITM001,M8 Screws,2384,pieces,Supplier_B,completed
+2024-05-30,ITM001,M8 Screws,2384,pieces,Supplier_B,completed
+2024-06-29,ITM001,M8 Screws,2505,pieces,Supplier_A,completed
+2024-07-29,ITM001,M8 Screws,2451,pieces,Supplier_E,completed
+2024-08-28,ITM001,M8 Screws,2368,pieces,Supplier_A,completed
+2024-09-27,ITM001,M8 Screws,2436,pieces,Supplier_E,completed
+2024-10-27,ITM001,M8 Screws,2369,pieces,Supplier_D,completed
+2024-11-26,ITM001,M8 Screws,2368,pieces,Supplier_A,completed
+2024-12-26,ITM001,M8 Screws,2416,pieces,Supplier_A,completed
+2025-01-25,ITM001,M8 Screws,2272,pieces,Supplier_A,completed
+2025-02-24,ITM001,M8 Screws,2285,pieces,Supplier_B,completed
+2025-03-26,ITM001,M8 Screws,2362,pieces,Supplier_B,completed
+2025-04-25,ITM001,M8 Screws,2332,pieces,Supplier_E,completed
+2025-05-25,ITM001,M8 Screws,2420,pieces,Supplier_E,completed
+2025-06-24,ITM001,M8 Screws,2339,pieces,Supplier_A,completed
+2025-07-24,ITM001,M8 Screws,2305,pieces,Supplier_E,completed
+2025-08-23,ITM001,M8 Screws,2497,pieces,Supplier_B,completed
+2025-09-22,ITM001,M8 Screws,2384,pieces,Supplier_E,completed
+2025-10-22,ITM001,M8 Screws,2404,pieces,Supplier_D,completed
+2025-11-21,ITM001,M8 Screws,2305,pieces,Supplier_B,completed
+2024-01-01,ITM002,M10 Bolts,1772,pieces,Supplier_D,completed
+2024-01-31,ITM002,M10 Bolts,1805,pieces,Supplier_E,completed
+2024-03-01,ITM002,M10 Bolts,1742,pieces,Supplier_C,completed
+2024-03-31,ITM002,M10 Bolts,1818,pieces,Supplier_A,completed
+2024-04-30,ITM002,M10 Bolts,1769,pieces,Supplier_B,completed
+2024-05-30,ITM002,M10 Bolts,1785,pieces,Supplier_D,completed
+2024-06-29,ITM002,M10 Bolts,1769,pieces,Supplier_C,completed
+2024-07-29,ITM002,M10 Bolts,1892,pieces,Supplier_C,completed
+2024-08-28,ITM002,M10 Bolts,1799,pieces,Supplier_B,completed
+2024-09-27,ITM002,M10 Bolts,1747,pieces,Supplier_B,completed
+2024-10-27,ITM002,M10 Bolts,1841,pieces,Supplier_C,completed
+2024-11-26,ITM002,M10 Bolts,1738,pieces,Supplier_A,completed
+2024-12-26,ITM002,M10 Bolts,1810,pieces,Supplier_A,completed
+2025-01-25,ITM002,M10 Bolts,1702,pieces,Supplier_D,completed
+2025-02-24,ITM002,M10 Bolts,1733,pieces,Supplier_A,completed
+2025-03-26,ITM002,M10 Bolts,1809,pieces,Supplier_C,completed
+2025-04-25,ITM002,M10 Bolts,1836,pieces,Supplier_C,completed
+2025-05-25,ITM002,M10 Bolts,1808,pieces,Supplier_E,completed
+2025-06-24,ITM002,M10 Bolts,1794,pieces,Supplier_C,completed
+2025-07-24,ITM002,M10 Bolts,1784,pieces,Supplier_A,completed
+2025-08-23,ITM002,M10 Bolts,1726,pieces,Supplier_D,completed
+2025-09-22,ITM002,M10 Bolts,1764,pieces,Supplier_E,completed
+2025-10-22,ITM002,M10 Bolts,1776,pieces,Supplier_A,completed
+2025-11-21,ITM002,M10 Bolts,1852,pieces,Supplier_D,completed
+2024-01-01,ITM003,Steel Plates,5171,pieces,Supplier_A,completed
+2024-01-31,ITM003,Steel Plates,4868,pieces,Supplier_E,completed
+2024-03-01,ITM003,Steel Plates,6461,pieces,Supplier_C,completed
+2024-03-31,ITM003,Steel Plates,6307,pieces,Supplier_E,completed
+2024-04-30,ITM003,Steel Plates,5960,pieces,Supplier_C,completed
+2024-05-30,ITM003,Steel Plates,6055,pieces,Supplier_E,completed
+2024-06-29,ITM003,Steel Plates,5515,pieces,Supplier_B,completed
+2024-07-29,ITM003,Steel Plates,4715,pieces,Supplier_A,completed
+2024-08-28,ITM003,Steel Plates,3281,pieces,Supplier_A,completed
+2024-09-27,ITM003,Steel Plates,3345,pieces,Supplier_B,completed
+2024-10-27,ITM003,Steel Plates,3866,pieces,Supplier_C,completed
+2024-11-26,ITM003,Steel Plates,4737,pieces,Supplier_A,completed
+2024-12-26,ITM003,Steel Plates,4760,pieces,Supplier_B,completed
+2025-01-25,ITM003,Steel Plates,5657,pieces,Supplier_A,completed
+2025-02-24,ITM003,Steel Plates,5745,pieces,Supplier_D,completed
+2025-03-26,ITM003,Steel Plates,5901,pieces,Supplier_C,completed
+2025-04-25,ITM003,Steel Plates,6705,pieces,Supplier_D,completed
+2025-05-25,ITM003,Steel Plates,6428,pieces,Supplier_C,completed
+2025-06-24,ITM003,Steel Plates,4963,pieces,Supplier_B,completed
+2025-07-24,ITM003,Steel Plates,4751,pieces,Supplier_C,completed
+2025-08-23,ITM003,Steel Plates,3881,pieces,Supplier_C,completed
+2025-09-22,ITM003,Steel Plates,3177,pieces,Supplier_B,completed
+2025-10-22,ITM003,Steel Plates,3881,pieces,Supplier_C,completed
+2025-11-21,ITM003,Steel Plates,5019,pieces,Supplier_A,completed
+2024-01-01,ITM004,Aluminum Sheets,3485,pieces,Supplier_E,completed
+2024-01-31,ITM004,Aluminum Sheets,4650,pieces,Supplier_B,completed
+2024-03-01,ITM004,Aluminum Sheets,3361,pieces,Supplier_E,completed
+2024-03-31,ITM004,Aluminum Sheets,4878,pieces,Supplier_B,completed
+2024-04-30,ITM004,Aluminum Sheets,4444,pieces,Supplier_B,completed
+2024-05-30,ITM004,Aluminum Sheets,3905,pieces,Supplier_D,completed
+2024-06-29,ITM004,Aluminum Sheets,3536,pieces,Supplier_D,completed
+2024-07-29,ITM004,Aluminum Sheets,2179,pieces,Supplier_C,completed
+2024-08-28,ITM004,Aluminum Sheets,2502,pieces,Supplier_E,completed
+2024-09-27,ITM004,Aluminum Sheets,2592,pieces,Supplier_B,completed
+2024-10-27,ITM004,Aluminum Sheets,3181,pieces,Supplier_C,completed
+2024-11-26,ITM004,Aluminum Sheets,2767,pieces,Supplier_A,completed
+2024-12-26,ITM004,Aluminum Sheets,3176,pieces,Supplier_B,completed
+2025-01-25,ITM004,Aluminum Sheets,3824,pieces,Supplier_A,completed
+2025-02-24,ITM004,Aluminum Sheets,4775,pieces,Supplier_C,completed
+2025-03-26,ITM004,Aluminum Sheets,4681,pieces,Supplier_D,completed
+2025-04-25,ITM004,Aluminum Sheets,4197,pieces,Supplier_C,completed
+2025-05-25,ITM004,Aluminum Sheets,4230,pieces,Supplier_A,completed
+2025-06-24,ITM004,Aluminum Sheets,3538,pieces,Supplier_B,completed
+2025-07-24,ITM004,Aluminum Sheets,3362,pieces,Supplier_E,completed
+2025-08-23,ITM004,Aluminum Sheets,2309,pieces,Supplier_C,completed
+2025-09-22,ITM004,Aluminum Sheets,2318,pieces,Supplier_B,completed
+2025-10-22,ITM004,Aluminum Sheets,2433,pieces,Supplier_D,completed
+2025-11-21,ITM004,Aluminum Sheets,2389,pieces,Supplier_D,completed
+2024-01-01,ITM005,Bearings,1209,pieces,Supplier_D,completed
+2024-01-31,ITM005,Bearings,1244,pieces,Supplier_B,completed
+2024-03-01,ITM005,Bearings,1272,pieces,Supplier_C,completed
+2024-03-31,ITM005,Bearings,1300,pieces,Supplier_B,completed
+2024-04-30,ITM005,Bearings,1296,pieces,Supplier_B,completed
+2024-05-30,ITM005,Bearings,1365,pieces,Supplier_E,completed
+2024-06-29,ITM005,Bearings,1404,pieces,Supplier_E,completed
+2024-07-29,ITM005,Bearings,1425,pieces,Supplier_C,completed
+2024-08-28,ITM005,Bearings,1482,pieces,Supplier_E,completed
+2024-09-27,ITM005,Bearings,1537,pieces,Supplier_D,completed
+2024-10-27,ITM005,Bearings,1622,pieces,Supplier_E,completed
+2024-11-26,ITM005,Bearings,1601,pieces,Supplier_D,completed
+2024-12-26,ITM005,Bearings,1640,pieces,Supplier_C,completed
+2025-01-25,ITM005,Bearings,1665,pieces,Supplier_B,completed
+2025-02-24,ITM005,Bearings,1640,pieces,Supplier_B,completed
+2025-03-26,ITM005,Bearings,1739,pieces,Supplier_E,completed
+2025-04-25,ITM005,Bearings,1778,pieces,Supplier_D,completed
+2025-05-25,ITM005,Bearings,1894,pieces,Supplier_A,completed
+2025-06-24,ITM005,Bearings,1841,pieces,Supplier_A,completed
+2025-07-24,ITM005,Bearings,1894,pieces,Supplier_A,completed
+2025-08-23,ITM005,Bearings,1918,pieces,Supplier_B,completed
+2025-09-22,ITM005,Bearings,1917,pieces,Supplier_B,completed
+2025-10-22,ITM005,Bearings,2030,pieces,Supplier_D,completed
+2025-11-21,ITM005,Bearings,2053,pieces,Supplier_E,completed
+2024-01-01,ITM006,Gears,921,pieces,Supplier_A,completed
+2024-01-31,ITM006,Gears,902,pieces,Supplier_D,completed
+2024-03-01,ITM006,Gears,991,pieces,Supplier_D,completed
+2024-03-31,ITM006,Gears,943,pieces,Supplier_E,completed
+2024-04-30,ITM006,Gears,1023,pieces,Supplier_D,completed
+2024-05-30,ITM006,Gears,1093,pieces,Supplier_E,completed
+2024-06-29,ITM006,Gears,1035,pieces,Supplier_C,completed
+2024-07-29,ITM006,Gears,1073,pieces,Supplier_E,completed
+2024-08-28,ITM006,Gears,1118,pieces,Supplier_A,completed
+2024-09-27,ITM006,Gears,1129,pieces,Supplier_A,completed
+2024-10-27,ITM006,Gears,1128,pieces,Supplier_E,completed
+2024-11-26,ITM006,Gears,1198,pieces,Supplier_C,completed
+2024-12-26,ITM006,Gears,1195,pieces,Supplier_C,completed
+2025-01-25,ITM006,Gears,1263,pieces,Supplier_A,completed
+2025-02-24,ITM006,Gears,1253,pieces,Supplier_C,completed
+2025-03-26,ITM006,Gears,1346,pieces,Supplier_D,completed
+2025-04-25,ITM006,Gears,1311,pieces,Supplier_B,completed
+2025-05-25,ITM006,Gears,1350,pieces,Supplier_D,completed
+2025-06-24,ITM006,Gears,1407,pieces,Supplier_A,completed
+2025-07-24,ITM006,Gears,1380,pieces,Supplier_C,completed
+2025-08-23,ITM006,Gears,1446,pieces,Supplier_E,completed
+2025-09-22,ITM006,Gears,1501,pieces,Supplier_B,completed
+2025-10-22,ITM006,Gears,1451,pieces,Supplier_E,completed
+2025-11-21,ITM006,Gears,1525,pieces,Supplier_A,completed
+2024-01-01,ITM007,Lubricant Oil,808,pieces,Supplier_C,completed
+2024-01-31,ITM007,Lubricant Oil,810,pieces,Supplier_E,completed
+2024-03-01,ITM007,Lubricant Oil,726,pieces,Supplier_E,completed
+2024-03-31,ITM007,Lubricant Oil,707,pieces,Supplier_B,completed
+2024-04-30,ITM007,Lubricant Oil,753,pieces,Supplier_B,completed
+2024-05-30,ITM007,Lubricant Oil,729,pieces,Supplier_C,completed
+2024-06-29,ITM007,Lubricant Oil,712,pieces,Supplier_B,completed
+2024-07-29,ITM007,Lubricant Oil,699,pieces,Supplier_E,completed
+2024-08-28,ITM007,Lubricant Oil,649,pieces,Supplier_E,completed
+2024-09-27,ITM007,Lubricant Oil,663,pieces,Supplier_A,completed
+2024-10-27,ITM007,Lubricant Oil,649,pieces,Supplier_E,completed
+2024-11-26,ITM007,Lubricant Oil,600,pieces,Supplier_C,completed
+2024-12-26,ITM007,Lubricant Oil,670,pieces,Supplier_D,completed
+2025-01-25,ITM007,Lubricant Oil,607,pieces,Supplier_A,completed
+2025-02-24,ITM007,Lubricant Oil,536,pieces,Supplier_A,completed
+2025-03-26,ITM007,Lubricant Oil,581,pieces,Supplier_C,completed
+2025-04-25,ITM007,Lubricant Oil,511,pieces,Supplier_C,completed
+2025-05-25,ITM007,Lubricant Oil,554,pieces,Supplier_B,completed
+2025-06-24,ITM007,Lubricant Oil,550,pieces,Supplier_A,completed
+2025-07-24,ITM007,Lubricant Oil,468,pieces,Supplier_B,completed
+2025-08-23,ITM007,Lubricant Oil,512,pieces,Supplier_E,completed
+2025-09-22,ITM007,Lubricant Oil,477,pieces,Supplier_A,completed
+2025-10-22,ITM007,Lubricant Oil,475,pieces,Supplier_A,completed
+2025-11-21,ITM007,Lubricant Oil,495,pieces,Supplier_D,completed
+2024-01-01,ITM008,Cleaning Solvent,593,pieces,Supplier_A,completed
+2024-01-31,ITM008,Cleaning Solvent,567,pieces,Supplier_E,completed
+2024-03-01,ITM008,Cleaning Solvent,552,pieces,Supplier_B,completed
+2024-03-31,ITM008,Cleaning Solvent,542,pieces,Supplier_B,completed
+2024-04-30,ITM008,Cleaning Solvent,549,pieces,Supplier_D,completed
+2024-05-30,ITM008,Cleaning Solvent,549,pieces,Supplier_E,completed
+2024-06-29,ITM008,Cleaning Solvent,535,pieces,Supplier_B,completed
+2024-07-29,ITM008,Cleaning Solvent,538,pieces,Supplier_C,completed
+2024-08-28,ITM008,Cleaning Solvent,504,pieces,Supplier_E,completed
+2024-09-27,ITM008,Cleaning Solvent,530,pieces,Supplier_E,completed
+2024-10-27,ITM008,Cleaning Solvent,472,pieces,Supplier_D,completed
+2024-11-26,ITM008,Cleaning Solvent,540,pieces,Supplier_B,completed
+2024-12-26,ITM008,Cleaning Solvent,472,pieces,Supplier_E,completed
+2025-01-25,ITM008,Cleaning Solvent,421,pieces,Supplier_B,completed
+2025-02-24,ITM008,Cleaning Solvent,403,pieces,Supplier_C,completed
+2025-03-26,ITM008,Cleaning Solvent,432,pieces,Supplier_D,completed
+2025-04-25,ITM008,Cleaning Solvent,402,pieces,Supplier_C,completed
+2025-05-25,ITM008,Cleaning Solvent,415,pieces,Supplier_D,completed
+2025-06-24,ITM008,Cleaning Solvent,396,pieces,Supplier_E,completed
+2025-07-24,ITM008,Cleaning Solvent,370,pieces,Supplier_D,completed
+2025-08-23,ITM008,Cleaning Solvent,337,pieces,Supplier_A,completed
+2025-09-22,ITM008,Cleaning Solvent,307,pieces,Supplier_B,completed
+2025-10-22,ITM008,Cleaning Solvent,324,pieces,Supplier_B,completed
+2025-11-21,ITM008,Cleaning Solvent,346,pieces,Supplier_A,completed
+2024-01-01,ITM009,Circuit Boards,442,pieces,Supplier_C,completed
+2024-01-31,ITM009,Circuit Boards,150,pieces,Supplier_A,completed
+2024-03-01,ITM009,Circuit Boards,434,pieces,Supplier_E,completed
+2024-03-31,ITM009,Circuit Boards,477,pieces,Supplier_E,completed
+2024-04-30,ITM009,Circuit Boards,223,pieces,Supplier_B,completed
+2024-05-30,ITM009,Circuit Boards,430,pieces,Supplier_E,completed
+2024-06-29,ITM009,Circuit Boards,411,pieces,Supplier_B,completed
+2024-07-29,ITM009,Circuit Boards,171,pieces,Supplier_A,completed
+2024-08-28,ITM009,Circuit Boards,471,pieces,Supplier_A,completed
+2024-09-27,ITM009,Circuit Boards,512,pieces,Supplier_A,completed
+2024-10-27,ITM009,Circuit Boards,616,pieces,Supplier_B,completed
+2024-11-26,ITM009,Circuit Boards,610,pieces,Supplier_A,completed
+2024-12-26,ITM009,Circuit Boards,124,pieces,Supplier_A,completed
+2025-01-25,ITM009,Circuit Boards,212,pieces,Supplier_C,completed
+2025-02-24,ITM009,Circuit Boards,503,pieces,Supplier_A,completed
+2025-03-26,ITM009,Circuit Boards,502,pieces,Supplier_E,completed
+2025-04-25,ITM009,Circuit Boards,503,pieces,Supplier_B,completed
+2025-05-25,ITM009,Circuit Boards,1170,pieces,Supplier_C,completed
+2025-06-24,ITM009,Circuit Boards,514,pieces,Supplier_D,completed
+2025-07-24,ITM009,Circuit Boards,627,pieces,Supplier_B,completed
+2025-08-23,ITM009,Circuit Boards,590,pieces,Supplier_E,completed
+2025-09-22,ITM009,Circuit Boards,530,pieces,Supplier_B,completed
+2025-10-22,ITM009,Circuit Boards,336,pieces,Supplier_E,completed
+2025-11-21,ITM009,Circuit Boards,551,pieces,Supplier_E,completed
+2024-01-01,ITM010,Sensors,234,pieces,Supplier_D,completed
+2024-01-31,ITM010,Sensors,314,pieces,Supplier_B,completed
+2024-03-01,ITM010,Sensors,277,pieces,Supplier_D,completed
+2024-03-31,ITM010,Sensors,362,pieces,Supplier_D,completed
+2024-04-30,ITM010,Sensors,697,pieces,Supplier_B,completed
+2024-05-30,ITM010,Sensors,69,pieces,Supplier_A,completed
+2024-06-29,ITM010,Sensors,452,pieces,Supplier_A,completed
+2024-07-29,ITM010,Sensors,108,pieces,Supplier_D,completed
+2024-08-28,ITM010,Sensors,279,pieces,Supplier_C,completed
+2024-09-27,ITM010,Sensors,513,pieces,Supplier_D,completed
+2024-10-27,ITM010,Sensors,359,pieces,Supplier_D,completed
+2024-11-26,ITM010,Sensors,188,pieces,Supplier_D,completed
+2024-12-26,ITM010,Sensors,242,pieces,Supplier_A,completed
+2025-01-25,ITM010,Sensors,451,pieces,Supplier_A,completed
+2025-02-24,ITM010,Sensors,240,pieces,Supplier_A,completed
+2025-03-26,ITM010,Sensors,382,pieces,Supplier_D,completed
+2025-04-25,ITM010,Sensors,356,pieces,Supplier_C,completed
+2025-05-25,ITM010,Sensors,252,pieces,Supplier_A,completed
+2025-06-24,ITM010,Sensors,671,pieces,Supplier_B,completed
+2025-07-24,ITM010,Sensors,445,pieces,Supplier_B,completed
+2025-08-23,ITM010,Sensors,50,pieces,Supplier_B,completed
+2025-09-22,ITM010,Sensors,377,pieces,Supplier_E,completed
+2025-10-22,ITM010,Sensors,250,pieces,Supplier_D,completed
+2025-11-21,ITM010,Sensors,477,pieces,Supplier_B,completed
+2024-01-01,ITM011,Cardboard Boxes,2900,pieces,Supplier_C,completed
+2024-01-31,ITM011,Cardboard Boxes,2985,pieces,Supplier_A,completed
+2024-03-01,ITM011,Cardboard Boxes,3063,pieces,Supplier_E,completed
+2024-03-31,ITM011,Cardboard Boxes,6456,pieces,Supplier_E,completed
+2024-04-30,ITM011,Cardboard Boxes,3108,pieces,Supplier_A,completed
+2024-05-30,ITM011,Cardboard Boxes,2849,pieces,Supplier_B,completed
+2024-06-29,ITM011,Cardboard Boxes,2958,pieces,Supplier_D,completed
+2024-07-29,ITM011,Cardboard Boxes,2940,pieces,Supplier_D,completed
+2024-08-28,ITM011,Cardboard Boxes,2918,pieces,Supplier_B,completed
+2024-09-27,ITM011,Cardboard Boxes,3220,pieces,Supplier_D,completed
+2024-10-27,ITM011,Cardboard Boxes,3050,pieces,Supplier_D,completed
+2024-11-26,ITM011,Cardboard Boxes,2842,pieces,Supplier_E,completed
+2024-12-26,ITM011,Cardboard Boxes,3114,pieces,Supplier_D,completed
+2025-01-25,ITM011,Cardboard Boxes,3265,pieces,Supplier_C,completed
+2025-02-24,ITM011,Cardboard Boxes,3129,pieces,Supplier_A,completed
+2025-03-26,ITM011,Cardboard Boxes,2810,pieces,Supplier_E,completed
+2025-04-25,ITM011,Cardboard Boxes,5440,pieces,Supplier_A,completed
+2025-05-25,ITM011,Cardboard Boxes,2939,pieces,Supplier_E,completed
+2025-06-24,ITM011,Cardboard Boxes,3158,pieces,Supplier_E,completed
+2025-07-24,ITM011,Cardboard Boxes,2911,pieces,Supplier_E,completed
+2025-08-23,ITM011,Cardboard Boxes,5057,pieces,Supplier_E,completed
+2025-09-22,ITM011,Cardboard Boxes,7085,pieces,Supplier_D,completed
+2025-10-22,ITM011,Cardboard Boxes,7170,pieces,Supplier_B,completed
+2025-11-21,ITM011,Cardboard Boxes,3055,pieces,Supplier_A,completed
+2024-01-01,ITM012,Bubble Wrap,2577,pieces,Supplier_D,completed
+2024-01-31,ITM012,Bubble Wrap,2407,pieces,Supplier_E,completed
+2024-03-01,ITM012,Bubble Wrap,2494,pieces,Supplier_C,completed
+2024-03-31,ITM012,Bubble Wrap,2175,pieces,Supplier_C,completed
+2024-04-30,ITM012,Bubble Wrap,2397,pieces,Supplier_D,completed
+2024-05-30,ITM012,Bubble Wrap,5363,pieces,Supplier_D,completed
+2024-06-29,ITM012,Bubble Wrap,2474,pieces,Supplier_A,completed
+2024-07-29,ITM012,Bubble Wrap,5302,pieces,Supplier_E,completed
+2024-08-28,ITM012,Bubble Wrap,2375,pieces,Supplier_A,completed
+2024-09-27,ITM012,Bubble Wrap,2663,pieces,Supplier_E,completed
+2024-10-27,ITM012,Bubble Wrap,2356,pieces,Supplier_C,completed
+2024-11-26,ITM012,Bubble Wrap,2455,pieces,Supplier_B,completed
+2024-12-26,ITM012,Bubble Wrap,2513,pieces,Supplier_B,completed
+2025-01-25,ITM012,Bubble Wrap,2644,pieces,Supplier_E,completed
+2025-02-24,ITM012,Bubble Wrap,2356,pieces,Supplier_E,completed
+2025-03-26,ITM012,Bubble Wrap,2616,pieces,Supplier_E,completed
+2025-04-25,ITM012,Bubble Wrap,5792,pieces,Supplier_C,completed
+2025-05-25,ITM012,Bubble Wrap,2501,pieces,Supplier_A,completed
+2025-06-24,ITM012,Bubble Wrap,2401,pieces,Supplier_B,completed
+2025-07-24,ITM012,Bubble Wrap,2546,pieces,Supplier_A,completed
+2025-08-23,ITM012,Bubble Wrap,2519,pieces,Supplier_B,completed
+2025-09-22,ITM012,Bubble Wrap,2439,pieces,Supplier_E,completed
+2025-10-22,ITM012,Bubble Wrap,2506,pieces,Supplier_C,completed
+2025-11-21,ITM012,Bubble Wrap,2461,pieces,Supplier_C,completed
+2024-01-01,ITM013,Drill Bits,150,pieces,Supplier_E,completed
+2024-01-31,ITM013,Drill Bits,154,pieces,Supplier_D,completed
+2024-03-01,ITM013,Drill Bits,160,pieces,Supplier_C,completed
+2024-03-31,ITM013,Drill Bits,141,pieces,Supplier_A,completed
+2024-04-30,ITM013,Drill Bits,164,pieces,Supplier_A,completed
+2024-05-30,ITM013,Drill Bits,136,pieces,Supplier_D,completed
+2024-06-29,ITM013,Drill Bits,148,pieces,Supplier_C,completed
+2024-07-29,ITM013,Drill Bits,153,pieces,Supplier_A,completed
+2024-08-28,ITM013,Drill Bits,151,pieces,Supplier_A,completed
+2024-09-27,ITM013,Drill Bits,145,pieces,Supplier_C,completed
+2024-10-27,ITM013,Drill Bits,148,pieces,Supplier_B,completed
+2024-11-26,ITM013,Drill Bits,146,pieces,Supplier_C,completed
+2024-12-26,ITM013,Drill Bits,146,pieces,Supplier_B,completed
+2025-01-25,ITM013,Drill Bits,155,pieces,Supplier_D,completed
+2025-02-24,ITM013,Drill Bits,152,pieces,Supplier_E,completed
+2025-03-26,ITM013,Drill Bits,145,pieces,Supplier_D,completed
+2025-04-25,ITM013,Drill Bits,155,pieces,Supplier_E,completed
+2025-05-25,ITM013,Drill Bits,152,pieces,Supplier_A,completed
+2025-06-24,ITM013,Drill Bits,155,pieces,Supplier_A,completed
+2025-07-24,ITM013,Drill Bits,154,pieces,Supplier_A,completed
+2025-08-23,ITM013,Drill Bits,144,pieces,Supplier_B,completed
+2025-09-22,ITM013,Drill Bits,146,pieces,Supplier_E,completed
+2025-10-22,ITM013,Drill Bits,154,pieces,Supplier_A,completed
+2025-11-21,ITM013,Drill Bits,154,pieces,Supplier_C,completed
+2024-01-01,ITM014,Wrenches,99,pieces,Supplier_E,completed
+2024-01-31,ITM014,Wrenches,100,pieces,Supplier_E,completed
+2024-03-01,ITM014,Wrenches,106,pieces,Supplier_B,completed
+2024-03-31,ITM014,Wrenches,97,pieces,Supplier_D,completed
+2024-04-30,ITM014,Wrenches,102,pieces,Supplier_B,completed
+2024-05-30,ITM014,Wrenches,98,pieces,Supplier_A,completed
+2024-06-29,ITM014,Wrenches,98,pieces,Supplier_C,completed
+2024-07-29,ITM014,Wrenches,105,pieces,Supplier_C,completed
+2024-08-28,ITM014,Wrenches,104,pieces,Supplier_A,completed
+2024-09-27,ITM014,Wrenches,104,pieces,Supplier_C,completed
+2024-10-27,ITM014,Wrenches,106,pieces,Supplier_B,completed
+2024-11-26,ITM014,Wrenches,100,pieces,Supplier_B,completed
+2024-12-26,ITM014,Wrenches,103,pieces,Supplier_A,completed
+2025-01-25,ITM014,Wrenches,98,pieces,Supplier_C,completed
+2025-02-24,ITM014,Wrenches,101,pieces,Supplier_E,completed
+2025-03-26,ITM014,Wrenches,99,pieces,Supplier_D,completed
+2025-04-25,ITM014,Wrenches,100,pieces,Supplier_E,completed
+2025-05-25,ITM014,Wrenches,102,pieces,Supplier_B,completed
+2025-06-24,ITM014,Wrenches,95,pieces,Supplier_B,completed
+2025-07-24,ITM014,Wrenches,110,pieces,Supplier_B,completed
+2025-08-23,ITM014,Wrenches,94,pieces,Supplier_B,completed
+2025-09-22,ITM014,Wrenches,93,pieces,Supplier_D,completed
+2025-10-22,ITM014,Wrenches,105,pieces,Supplier_A,completed
+2025-11-21,ITM014,Wrenches,103,pieces,Supplier_B,completed
+2024-01-01,ITM015,Safety Gloves,1593,pieces,Supplier_C,completed
+2024-01-31,ITM015,Safety Gloves,1819,pieces,Supplier_D,completed
+2024-03-01,ITM015,Safety Gloves,1887,pieces,Supplier_B,completed
+2024-03-31,ITM015,Safety Gloves,1815,pieces,Supplier_C,completed
+2024-04-30,ITM015,Safety Gloves,1901,pieces,Supplier_B,completed
+2024-05-30,ITM015,Safety Gloves,1623,pieces,Supplier_A,completed
+2024-06-29,ITM015,Safety Gloves,1646,pieces,Supplier_D,completed
+2024-07-29,ITM015,Safety Gloves,1252,pieces,Supplier_A,completed
+2024-08-28,ITM015,Safety Gloves,986,pieces,Supplier_D,completed
+2024-09-27,ITM015,Safety Gloves,1001,pieces,Supplier_B,completed
+2024-10-27,ITM015,Safety Gloves,1172,pieces,Supplier_B,completed
+2024-11-26,ITM015,Safety Gloves,1190,pieces,Supplier_D,completed
+2024-12-26,ITM015,Safety Gloves,1376,pieces,Supplier_C,completed
+2025-01-25,ITM015,Safety Gloves,1761,pieces,Supplier_C,completed
+2025-02-24,ITM015,Safety Gloves,1926,pieces,Supplier_B,completed
+2025-03-26,ITM015,Safety Gloves,1873,pieces,Supplier_B,completed
+2025-04-25,ITM015,Safety Gloves,1819,pieces,Supplier_A,completed
+2025-05-25,ITM015,Safety Gloves,1759,pieces,Supplier_B,completed
+2025-06-24,ITM015,Safety Gloves,1282,pieces,Supplier_D,completed
+2025-07-24,ITM015,Safety Gloves,1063,pieces,Supplier_C,completed
+2025-08-23,ITM015,Safety Gloves,1002,pieces,Supplier_C,completed
+2025-09-22,ITM015,Safety Gloves,1017,pieces,Supplier_A,completed
+2025-10-22,ITM015,Safety Gloves,1156,pieces,Supplier_C,completed
+2025-11-21,ITM015,Safety Gloves,1496,pieces,Supplier_C,completed
+2024-01-01,ITM016,Hard Hats,542,pieces,Supplier_E,completed
+2024-01-31,ITM016,Hard Hats,567,pieces,Supplier_D,completed
+2024-03-01,ITM016,Hard Hats,628,pieces,Supplier_E,completed
+2024-03-31,ITM016,Hard Hats,599,pieces,Supplier_C,completed
+2024-04-30,ITM016,Hard Hats,628,pieces,Supplier_A,completed
+2024-05-30,ITM016,Hard Hats,560,pieces,Supplier_A,completed
+2024-06-29,ITM016,Hard Hats,516,pieces,Supplier_C,completed
+2024-07-29,ITM016,Hard Hats,383,pieces,Supplier_B,completed
+2024-08-28,ITM016,Hard Hats,396,pieces,Supplier_E,completed
+2024-09-27,ITM016,Hard Hats,426,pieces,Supplier_C,completed
+2024-10-27,ITM016,Hard Hats,364,pieces,Supplier_A,completed
+2024-11-26,ITM016,Hard Hats,445,pieces,Supplier_A,completed
+2024-12-26,ITM016,Hard Hats,534,pieces,Supplier_E,completed
+2025-01-25,ITM016,Hard Hats,554,pieces,Supplier_D,completed
+2025-02-24,ITM016,Hard Hats,641,pieces,Supplier_C,completed
+2025-03-26,ITM016,Hard Hats,650,pieces,Supplier_C,completed
+2025-04-25,ITM016,Hard Hats,634,pieces,Supplier_D,completed
+2025-05-25,ITM016,Hard Hats,536,pieces,Supplier_E,completed
+2025-06-24,ITM016,Hard Hats,501,pieces,Supplier_E,completed
+2025-07-24,ITM016,Hard Hats,449,pieces,Supplier_A,completed
+2025-08-23,ITM016,Hard Hats,442,pieces,Supplier_D,completed
+2025-09-22,ITM016,Hard Hats,397,pieces,Supplier_E,completed
+2025-10-22,ITM016,Hard Hats,477,pieces,Supplier_B,completed
+2025-11-21,ITM016,Hard Hats,386,pieces,Supplier_C,completed
+2024-01-01,ITM017,Adhesive,723,pieces,Supplier_A,completed
+2024-01-31,ITM017,Adhesive,725,pieces,Supplier_D,completed
+2024-03-01,ITM017,Adhesive,800,pieces,Supplier_A,completed
+2024-03-31,ITM017,Adhesive,741,pieces,Supplier_E,completed
+2024-04-30,ITM017,Adhesive,761,pieces,Supplier_E,completed
+2024-05-30,ITM017,Adhesive,789,pieces,Supplier_B,completed
+2024-06-29,ITM017,Adhesive,769,pieces,Supplier_C,completed
+2024-07-29,ITM017,Adhesive,832,pieces,Supplier_D,completed
+2024-08-28,ITM017,Adhesive,847,pieces,Supplier_A,completed
+2024-09-27,ITM017,Adhesive,893,pieces,Supplier_C,completed
+2024-10-27,ITM017,Adhesive,919,pieces,Supplier_E,completed
+2024-11-26,ITM017,Adhesive,981,pieces,Supplier_C,completed
+2024-12-26,ITM017,Adhesive,977,pieces,Supplier_A,completed
+2025-01-25,ITM017,Adhesive,957,pieces,Supplier_C,completed
+2025-02-24,ITM017,Adhesive,970,pieces,Supplier_E,completed
+2025-03-26,ITM017,Adhesive,1028,pieces,Supplier_C,completed
+2025-04-25,ITM017,Adhesive,1000,pieces,Supplier_D,completed
+2025-05-25,ITM017,Adhesive,1105,pieces,Supplier_C,completed
+2025-06-24,ITM017,Adhesive,1109,pieces,Supplier_D,completed
+2025-07-24,ITM017,Adhesive,1086,pieces,Supplier_C,completed
+2025-08-23,ITM017,Adhesive,1074,pieces,Supplier_E,completed
+2025-09-22,ITM017,Adhesive,1177,pieces,Supplier_B,completed
+2025-10-22,ITM017,Adhesive,1158,pieces,Supplier_B,completed
+2025-11-21,ITM017,Adhesive,1216,pieces,Supplier_D,completed
+2024-01-01,ITM018,Paint,562,pieces,Supplier_D,completed
+2024-01-31,ITM018,Paint,604,pieces,Supplier_B,completed
+2024-03-01,ITM018,Paint,636,pieces,Supplier_E,completed
+2024-03-31,ITM018,Paint,655,pieces,Supplier_E,completed
+2024-04-30,ITM018,Paint,661,pieces,Supplier_C,completed
+2024-05-30,ITM018,Paint,704,pieces,Supplier_D,completed
+2024-06-29,ITM018,Paint,683,pieces,Supplier_E,completed
+2024-07-29,ITM018,Paint,722,pieces,Supplier_A,completed
+2024-08-28,ITM018,Paint,746,pieces,Supplier_C,completed
+2024-09-27,ITM018,Paint,774,pieces,Supplier_C,completed
+2024-10-27,ITM018,Paint,796,pieces,Supplier_B,completed
+2024-11-26,ITM018,Paint,771,pieces,Supplier_D,completed
+2024-12-26,ITM018,Paint,780,pieces,Supplier_E,completed
+2025-01-25,ITM018,Paint,863,pieces,Supplier_E,completed
+2025-02-24,ITM018,Paint,859,pieces,Supplier_C,completed
+2025-03-26,ITM018,Paint,852,pieces,Supplier_D,completed
+2025-04-25,ITM018,Paint,924,pieces,Supplier_D,completed
+2025-05-25,ITM018,Paint,908,pieces,Supplier_D,completed
+2025-06-24,ITM018,Paint,951,pieces,Supplier_B,completed
+2025-07-24,ITM018,Paint,943,pieces,Supplier_E,completed
+2025-08-23,ITM018,Paint,1008,pieces,Supplier_D,completed
+2025-09-22,ITM018,Paint,1018,pieces,Supplier_B,completed
+2025-10-22,ITM018,Paint,990,pieces,Supplier_A,completed
+2025-11-21,ITM018,Paint,1036,pieces,Supplier_C,completed
+2024-01-01,ITM019,Rubber Gaskets,993,pieces,Supplier_E,completed
+2024-01-31,ITM019,Rubber Gaskets,1210,pieces,Supplier_E,completed
+2024-03-01,ITM019,Rubber Gaskets,510,pieces,Supplier_C,completed
+2024-03-31,ITM019,Rubber Gaskets,1005,pieces,Supplier_A,completed
+2024-04-30,ITM019,Rubber Gaskets,1117,pieces,Supplier_B,completed
+2024-05-30,ITM019,Rubber Gaskets,272,pieces,Supplier_C,completed
+2024-06-29,ITM019,Rubber Gaskets,445,pieces,Supplier_B,completed
+2024-07-29,ITM019,Rubber Gaskets,188,pieces,Supplier_B,completed
+2024-08-28,ITM019,Rubber Gaskets,719,pieces,Supplier_B,completed
+2024-09-27,ITM019,Rubber Gaskets,1015,pieces,Supplier_A,completed
+2024-10-27,ITM019,Rubber Gaskets,1250,pieces,Supplier_A,completed
+2024-11-26,ITM019,Rubber Gaskets,822,pieces,Supplier_B,completed
+2024-12-26,ITM019,Rubber Gaskets,1288,pieces,Supplier_D,completed
+2025-01-25,ITM019,Rubber Gaskets,385,pieces,Supplier_E,completed
+2025-02-24,ITM019,Rubber Gaskets,288,pieces,Supplier_A,completed
+2025-03-26,ITM019,Rubber Gaskets,783,pieces,Supplier_D,completed
+2025-04-25,ITM019,Rubber Gaskets,915,pieces,Supplier_D,completed
+2025-05-25,ITM019,Rubber Gaskets,790,pieces,Supplier_E,completed
+2025-06-24,ITM019,Rubber Gaskets,179,pieces,Supplier_B,completed
+2025-07-24,ITM019,Rubber Gaskets,773,pieces,Supplier_D,completed
+2025-08-23,ITM019,Rubber Gaskets,408,pieces,Supplier_D,completed
+2025-09-22,ITM019,Rubber Gaskets,1000,pieces,Supplier_D,completed
+2025-10-22,ITM019,Rubber Gaskets,909,pieces,Supplier_B,completed
+2025-11-21,ITM019,Rubber Gaskets,518,pieces,Supplier_B,completed
+2024-01-01,ITM020,O-Rings,820,pieces,Supplier_A,completed
+2024-01-31,ITM020,O-Rings,629,pieces,Supplier_A,completed
+2024-03-01,ITM020,O-Rings,978,pieces,Supplier_D,completed
+2024-03-31,ITM020,O-Rings,1334,pieces,Supplier_B,completed
+2024-04-30,ITM020,O-Rings,654,pieces,Supplier_B,completed
+2024-05-30,ITM020,O-Rings,1176,pieces,Supplier_E,completed
+2024-06-29,ITM020,O-Rings,814,pieces,Supplier_D,completed
+2024-07-29,ITM020,O-Rings,722,pieces,Supplier_A,completed
+2024-08-28,ITM020,O-Rings,962,pieces,Supplier_E,completed
+2024-09-27,ITM020,O-Rings,637,pieces,Supplier_B,completed
+2024-10-27,ITM020,O-Rings,806,pieces,Supplier_A,completed
+2024-11-26,ITM020,O-Rings,580,pieces,Supplier_D,completed
+2024-12-26,ITM020,O-Rings,1687,pieces,Supplier_B,completed
+2025-01-25,ITM020,O-Rings,1012,pieces,Supplier_D,completed
+2025-02-24,ITM020,O-Rings,755,pieces,Supplier_E,completed
+2025-03-26,ITM020,O-Rings,1074,pieces,Supplier_E,completed
+2025-04-25,ITM020,O-Rings,960,pieces,Supplier_E,completed
+2025-05-25,ITM020,O-Rings,922,pieces,Supplier_C,completed
+2025-06-24,ITM020,O-Rings,1214,pieces,Supplier_D,completed
+2025-07-24,ITM020,O-Rings,1265,pieces,Supplier_E,completed
+2025-08-23,ITM020,O-Rings,814,pieces,Supplier_E,completed
+2025-09-22,ITM020,O-Rings,798,pieces,Supplier_D,completed
+2025-10-22,ITM020,O-Rings,903,pieces,Supplier_E,completed
+2025-11-21,ITM020,O-Rings,194,pieces,Supplier_D,completed

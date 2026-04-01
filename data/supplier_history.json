@@ -1,0 +1,220 @@
+{
+    "Aluminum Sheets": [
+        {
+            "supplier_name": "NextGen Components",
+            "contact_email": "nextgen.components1@gmail.com",
+            "unit_price": 5.5,
+            "quantity_bought": 1000,
+            "total_price": 5500.0,
+            "exceptions_handled": "None",
+            "compensation": "None",
+            "rating": 4.5,
+            "has_iso_certification": true,
+            "years_in_business": 25
+        }
+    ],
+    "Wrenches": [
+        {
+            "supplier_name": "NextGen Components",
+            "contact_email": "nextgen.components1@gmail.com",
+            "unit_price": 12.0,
+            "quantity_bought": 500,
+            "total_price": 6000.0,
+            "exceptions_handled": "Slight delivery delay",
+            "compensation": "Waived shipping cost",
+            "rating": 3.9,
+            "has_iso_certification": true,
+            "years_in_business": 6
+        }
+    ],
+    "M8 Screws": [
+        {
+            "supplier_name": "Pioneer Machineparts",
+            "contact_email": "pioneer.machineparts@gmail.com",
+            "unit_price": 0.1,
+            "quantity_bought": 10000,
+            "total_price": 1000.0,
+            "exceptions_handled": "None",
+            "compensation": "None",
+            "rating": 4.6,
+            "has_iso_certification": false,
+            "years_in_business": 25
+        }
+    ],
+    "M10 Bolts": [
+        {
+            "supplier_name": "Pioneer Machineparts",
+            "contact_email": "pioneer.machineparts@gmail.com",
+            "unit_price": 0.25,
+            "quantity_bought": 5000,
+            "total_price": 1250.0,
+            "exceptions_handled": "Minor scratch on 50 units",
+            "compensation": "Accepted with 5% deduction",
+            "rating": 4.8,
+            "has_iso_certification": true,
+            "years_in_business": 20
+        }
+    ],
+    "Circuit Boards": [
+        {
+            "supplier_name": "ElectroTech Systems",
+            "contact_email": "contact@electrotech.com",
+            "unit_price": 15.0,
+            "quantity_bought": 200,
+            "total_price": 3000.0,
+            "exceptions_handled": "Delayed by 2 days due to customs",
+            "compensation": "10% discount on next order",
+            "rating": 4.1,
+            "has_iso_certification": true,
+            "years_in_business": 4
+        },
+        {
+            "supplier_name": "Global Circuits Inc",
+            "contact_email": "sales@globalcircuits.com",
+            "unit_price": 14.5,
+            "quantity_bought": 300,
+            "total_price": 4350.0,
+            "exceptions_handled": "Failed QA for 5 units",
+            "compensation": "Replaced units free of charge by express air",
+            "rating": 3.8,
+            "has_iso_certification": false,
+            "years_in_business": 21
+        }
+    ],
+    "Sensors": [
+        {
+            "supplier_name": "LumiNation LEDs",
+            "contact_email": "orders@lumination.com",
+            "unit_price": 8.5,
+            "quantity_bought": 1000,
+            "total_price": 8500.0,
+            "exceptions_handled": "None",
+            "compensation": "None",
+            "rating": 3.5,
+            "has_iso_certification": true,
+            "years_in_business": 24
+        }
+    ],
+    "Cardboard Boxes": [
+        {
+            "supplier_name": "PackIt Supplies",
+            "contact_email": "sales@packitsupplies.com",
+            "unit_price": 1.2,
+            "quantity_bought": 5000,
+            "total_price": 6000.0,
+            "exceptions_handled": "Water damage on 50 boxes",
+            "compensation": "Refunded  for the damaged units",
+            "rating": 4.5,
+            "has_iso_certification": false,
+            "years_in_business": 15
+        }
+    ],
+    "Steel Plates": [
+        {
+            "supplier_name": "Ironclad Metals",
+            "contact_email": "info@ironcladmetals.com",
+            "unit_price": 22.0,
+            "quantity_bought": 150,
+            "total_price": 3300.0,
+            "exceptions_handled": "Wrong diameter on first batch",
+            "compensation": "Immediately recalled and replaced within 24h",
+            "rating": 3.8,
+            "has_iso_certification": false,
+            "years_in_business": 10
+        },
+        {
+            "supplier_name": "SteelWorks India",
+            "contact_email": "contact@steelworks.in",
+            "unit_price": 20.5,
+            "quantity_bought": 300,
+            "total_price": 6150.0,
+            "exceptions_handled": "Delayed by 5 days",
+            "compensation": "Refunded shipping costs",
+            "rating": 4.7,
+            "has_iso_certification": false,
+            "years_in_business": 16
+        }
+    ],
+    "Drill Bits": [
+        {
+            "supplier_name": "WireKing Solutions",
+            "contact_email": "support@wireking.com",
+            "unit_price": 5.0,
+            "quantity_bought": 2000,
+            "total_price": 10000.0,
+            "exceptions_handled": "None",
+            "compensation": "None",
+            "rating": 4.7,
+            "has_iso_certification": true,
+            "years_in_business": 7
+        },
+        {
+            "supplier_name": "Volt Dynamics",
+            "contact_email": "motors@voltdynamics.com",
+            "unit_price": 4.8,
+            "quantity_bought": 1000,
+            "total_price": 4800.0,
+            "exceptions_handled": "Spools unraveled slightly in transit",
+            "compensation": "Offered  credit",
+            "rating": 3.6,
+            "has_iso_certification": true,
+            "years_in_business": 13
+        }
+    ],
+    "Rubber Gaskets": [
+        {
+            "supplier_name": "FlexiSeal Corp",
+            "contact_email": "flexiseal@rubber.com",
+            "unit_price": 0.5,
+            "quantity_bought": 10000,
+            "total_price": 5000.0,
+            "exceptions_handled": "None",
+            "compensation": "None",
+            "rating": 4.5,
+            "has_iso_certification": true,
+            "years_in_business": 10
+        }
+    ],
+    "Safety Gloves": [
+        {
+            "supplier_name": "Volt Dynamics",
+            "contact_email": "motors@voltdynamics.com",
+            "unit_price": 45.0,
+            "quantity_bought": 50,
+            "total_price": 2250.0,
+            "exceptions_handled": "1 motor was Dead On Arrival",
+            "compensation": "Replaced under warranty; provided free maintenance kit",
+            "rating": 3.7,
+            "has_iso_certification": true,
+            "years_in_business": 5
+        }
+    ],
+    "Bearings": [
+        {
+            "supplier_name": "MotionBearings Ltd",
+            "contact_email": "sales@motionbearings.com",
+            "unit_price": 2.5,
+            "quantity_bought": 500,
+            "total_price": 1250.0,
+            "exceptions_handled": "None",
+            "compensation": "None",
+            "rating": 4.8,
+            "has_iso_certification": false,
+            "years_in_business": 10
+        }
+    ],
+    "Gears": [
+        {
+            "supplier_name": "NextGen Components",
+            "contact_email": "nextgen.components1@gmail.com",
+            "unit_price": 150.0,
+            "quantity_bought": 20,
+            "total_price": 3000.0,
+            "exceptions_handled": "Packaging damaged, but chips intact",
+            "compensation": "Added enhanced protective layering for future orders",
+            "rating": 4.3,
+            "has_iso_certification": true,
+            "years_in_business": 4
+        }
+    ]
+}
