@@ -1,1 +1,48 @@
-{}
+{
+  "ITM004_20260403_112220": {
+    "rfq_id": "ITM004_20260403_112220",
+    "item_code": "ITM004",
+    "item_name": "Aluminum Sheets",
+    "quantity": 3234,
+    "delivery_days": 14,
+    "urgency": "CRITICAL",
+    "suppliers_contacted": 2,
+    "emails_sent": 2,
+    "success_list": [
+      "nextgen.components1@gmail.com",
+      "pioneer.machineparts@gmail.com"
+    ],
+    "suppliers": [
+      {
+        "supplier_name": "Jagdish Metal",
+        "location": "Mumbai",
+        "quality_level": "High Quality",
+        "risk_level": "Low Risk",
+        "rating": 4.5
+      },
+      {
+        "supplier_name": "Mayur Metals",
+        "location": "New Delhi",
+        "quality_level": "High Quality",
+        "risk_level": "Low Risk",
+        "rating": 4.0
+      },
+      {
+        "supplier_name": "Manifest Alloys",
+        "location": "Mumbai",
+        "quality_level": "High Quality",
+        "risk_level": "Low Risk",
+        "rating": 4.5
+      },
+      {
+        "supplier_name": "Dhanlaxmi Steel Distributors",
+        "location": "Mumbai",
+        "quality_level": "High Quality",
+        "risk_level": "Low Risk",
+        "rating": 4.5
+      }
+    ],
+    "status": "sent",
+    "sent_at": "2026-04-03 11:22:20"
+  }
+}

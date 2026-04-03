@@ -2,6 +2,7 @@ import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from agents.base_agent import BaseAgent
+from agents.Agent2_stockMonitor import StockMonitor
 from agents.Agent3_replenishmentAdvisor import ReplenishmentAdvisor
 from agents.Agent4_supplierDiscovery import SupplierDiscovery
 from agents.Agent5_rfqGenerator import RFQGenerator
@@ -15,6 +16,7 @@ import json
 import re
 from datetime import datetime
 from difflib import SequenceMatcher
+import random
 
 # ══════════════════════════════════════════════════════════════════════════════
 #  NORMALIZATION & FUZZY MATCHING UTILITIES
@@ -498,8 +500,6 @@ Check a different item"""
 
     def _handle_full_inventory_check(self) -> str:
         """Scan ALL inventory items and report which ones need procurement."""
-        from agents.Agent2_stockMonitor import StockMonitor
-
         log_info("Running full inventory scan", self.name)
 
         try:
@@ -593,8 +593,6 @@ Help"""
 
     def _generate_supplier_approval_question(self) -> str:
         """Generate varied, natural supplier approval questions."""
-        import random
-       
         questions = [
             "Would you like me to suggest suppliers for this item?",
             "Should I look for suppliers for this?",
@@ -872,7 +870,7 @@ Stakeholders have been notified. Once you receive quotes, you can check the inbo
         pending_rfqs[rfq_id] = pending_rfq
        
         try:
-            os.makedirs('data', exist_ok=True)
+            os.makedirs(os.path.dirname(self.pending_rfqs_file), exist_ok=True)
             with open(self.pending_rfqs_file, 'w') as f:
                 json.dump(pending_rfqs, f, indent=2)
             log_info(f"Saved pending RFQ: {rfq_id}", self.name)
@@ -962,7 +960,7 @@ You can resume this later by mentioning {item_display_name} again, or ask me to 
         sent_rfqs[rfq_id] = sent_rfq
         
         try:
-            os.makedirs('data', exist_ok=True)
+            os.makedirs(os.path.dirname(self.pending_rfqs_file), exist_ok=True)
             with open(self.sent_rfqs_file, 'w') as f:
                 json.dump(sent_rfqs, f, indent=2)
             log_info(f"Saved sent RFQ: {rfq_id}", self.name)

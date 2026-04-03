@@ -1,1 +1,36 @@
-{}
+{
+  "NextGen <nextgen.components1@gmail.com>": {
+    "supplier_name": "NextGen Components",
+    "quotes": [
+      {
+        "item_code": null,
+        "item_name": "Aluminum Sheets",
+        "unit_price": 12.5,
+        "quantity": 2536,
+        "total_cost": 31700.0,
+        "delivery_days": 10,
+        "payment_terms": "Net 30 days",
+        "quality_certs": "ISO 9001:2015",
+        "risk_score": 0,
+        "received_at": "2026-04-03 11:24:04"
+      }
+    ]
+  },
+  "Pioneer <pioneer.machineparts@gmail.com>": {
+    "supplier_name": "Pioneer Machineparts",
+    "quotes": [
+      {
+        "item_code": null,
+        "item_name": "Aluminium Sheets",
+        "unit_price": 11.8,
+        "quantity": 2536,
+        "total_cost": 29924.8,
+        "delivery_days": 14,
+        "payment_terms": "Net 45 days",
+        "quality_certs": "ISO 9001, ISO 14001",
+        "risk_score": 0,
+        "received_at": "2026-04-03 11:24:04"
+      }
+    ]
+  }
+}

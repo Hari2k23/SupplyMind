@@ -19,12 +19,6 @@ class CommunicationOrchestrator:
         self.email_monitor = EmailMonitor()
         self.notification_manager = NotificationManager()
         
-        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        self.stakeholder_contacts_file = os.path.join(project_root, 'data', 'stakeholder_contacts.json')
-        self.notification_logs_file = os.path.join(project_root, 'data', 'notification_logs.json')
-        self.processed_emails_file = os.path.join(project_root, 'data', 'processed_emails.json')
-    
-    
     def send_notification(self, event_type, event_data):
         """Send notification to stakeholders based on event type."""
         log_info(f"Sending notification for event: {event_type}", self.name)

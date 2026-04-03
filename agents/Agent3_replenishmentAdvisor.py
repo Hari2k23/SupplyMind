@@ -6,9 +6,8 @@ from agents.base_agent import BaseAgent
 from agents.Agent1_complete import DataHarmonizerAndForecaster
 from agents.Agent2_stockMonitor import StockMonitor
 from models.data_models import OrderRecommendation
-from config.settings import SAFETY_BUFFER, REORDER_POINT, GROQ_MODELS
+from config.settings import SAFETY_BUFFER, GROQ_MODELS
 from utils.groq_helper import groq
-
 
 # Define constants with explanations (removing magic numbers)
 SAFETY_STOCK_PERCENTAGE = 0.2  # 20% buffer added to forecast for demand uncertainty

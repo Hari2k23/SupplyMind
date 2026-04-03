@@ -1,1 +1,46 @@
-{}
+{
+  "rfq_sent_20260403_112220": {
+    "notification_id": "rfq_sent_20260403_112220",
+    "event_type": "rfq_sent",
+    "sent_at": "2026-04-03 11:22:20",
+    "recipients": [
+      "717822i216@kce.ac.in"
+    ],
+    "subject": "RFQ Sent - Aluminum Sheets",
+    "status": "sent",
+    "error_message": null
+  },
+  "quote_received_20260403_112411": {
+    "notification_id": "quote_received_20260403_112411",
+    "event_type": "quote_received",
+    "sent_at": "2026-04-03 11:24:11",
+    "recipients": [
+      "717822i216@kce.ac.in"
+    ],
+    "subject": "New Quote Received - Aluminum Sheets",
+    "status": "sent",
+    "error_message": null
+  },
+  "quote_received_20260403_112415": {
+    "notification_id": "quote_received_20260403_112415",
+    "event_type": "quote_received",
+    "sent_at": "2026-04-03 11:24:15",
+    "recipients": [
+      "717822i216@kce.ac.in"
+    ],
+    "subject": "New Quote Received - Aluminium Sheets",
+    "status": "sent",
+    "error_message": null
+  },
+  "po_approved_20260403_112744": {
+    "notification_id": "po_approved_20260403_112744",
+    "event_type": "po_approved",
+    "sent_at": "2026-04-03 11:27:44",
+    "recipients": [
+      "717822i216@kce.ac.in"
+    ],
+    "subject": "Purchase Order Approved - PO-ITM004-20260403_112447",
+    "status": "sent",
+    "error_message": null
+  }
+}

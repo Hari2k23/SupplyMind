@@ -1,1 +1,24 @@
-{}
+{
+  "PO-ITM004-20260403_112447": {
+    "po_number": "PO-ITM004-20260403_112447",
+    "created_at": "2026-04-03 11:24:47",
+    "supplier_name": "NextGen Components",
+    "contact_email": "NextGen <nextgen.components1@gmail.com>",
+    "item_code": "ITM004",
+    "item_name": "Aluminum Sheets",
+    "quantity": 3234,
+    "unit_price": 12.5,
+    "total_cost": 40425.0,
+    "delivery_days": 10,
+    "expected_delivery_date": "2026-04-13",
+    "payment_terms": "Net 30 days",
+    "quality_certifications": "ISO 9001:2015",
+    "budget_status": "within_budget",
+    "approval_status": "needs_approval",
+    "approval_reason": "Mandatory approval required (company policy)",
+    "justification": "We selected NextGen Components as the preferred supplier due to their competitive pricing of Rs.12.50, which offers a favorable cost structure. Additionally, their 10-day delivery timeline aligns with our operational requirements, ensuring timely receipt of the components. This balance of price and delivery speed, combined with their ISO 9001:2015 quality certification, makes NextGen Components the most suitable choice for our needs.",
+    "score": 50.0,
+    "status": "approved",
+    "approved_at": "2026-04-03 11:27:40"
+  }
+}

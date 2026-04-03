@@ -1564,20 +1564,30 @@ def get_system_metrics():
     try:
         inventory_df = load_inventory_data()
         quotes = load_json_data("data/quotes_collected.json", {})
-        pos = load_json_data("data/purchase_orders.json", [])
-        notifications = load_json_data("data/notification_logs.json", [])
-        
+        pos = load_json_data("data/purchase_orders.json", {})
+        notifications = load_json_data("data/notification_logs.json", {})
+
         total_items = len(inventory_df) if not inventory_df.empty else 0
-        
+
         low_stock_count = 0
         if not inventory_df.empty and 'current_quantity' in inventory_df.columns and 'reorder_point' in inventory_df.columns:
             low_stock_count = len(inventory_df[inventory_df['current_quantity'] < inventory_df['reorder_point']])
-        
-        active_pos = len([po for po in pos if po.get('status') == 'approved']) if isinstance(pos, list) else 0
-        total_quotes = sum(len(supplier_quotes) for supplier_quotes in quotes.values()) if isinstance(quotes, dict) else 0
-        recent_notifications = len([n for n in notifications if isinstance(n, dict) and 
-                                   (datetime.now() - datetime.fromisoformat(n.get('timestamp', '2020-01-01'))).days < 7]) if isinstance(notifications, list) else 0
-        
+
+        pos_list = list(pos.values()) if isinstance(pos, dict) else (pos if isinstance(pos, list) else [])
+        active_pos = len([po for po in pos_list if po.get('status', '').lower() == 'approved'])
+
+        total_quotes = sum(len(v.get('quotes', [])) for v in quotes.values()) if isinstance(quotes, dict) else 0
+
+        notif_list = list(notifications.values()) if isinstance(notifications, dict) else (notifications if isinstance(notifications, list) else [])
+        recent_notifications = 0
+        for n in notif_list:
+            if isinstance(n, dict) and n.get('sent_at'):
+                try:
+                    if (datetime.now() - datetime.strptime(n['sent_at'], '%Y-%m-%d %H:%M:%S')).days < 7:
+                        recent_notifications += 1
+                except (ValueError, TypeError):
+                    pass
+
         return {
             'total_items': total_items,
             'low_stock_count': low_stock_count,
@@ -1589,6 +1599,7 @@ def get_system_metrics():
         log_error(f"Error calculating metrics: {e}")
         return {'total_items': 0, 'low_stock_count': 0, 'active_pos': 0, 'total_quotes': 0, 'recent_notifications': 0}
 
+        
 # Sidebar navigation
 with st.sidebar:
     st.markdown("""
@@ -1779,11 +1790,11 @@ if page == "Dashboard":
             notifications = list(notifications.values())
 
         if notifications and isinstance(notifications, list):
-            recent = sorted(notifications, key=lambda x: x.get('timestamp', ''), reverse=True)[:5]
+            recent = sorted(notifications, key=lambda x: x.get('sent_at', ''), reverse=True)[:5]
             
             for notif in recent:
                 event_type = notif.get('event_type', 'unknown')
-                timestamp = notif.get('timestamp', '')
+                timestamp = notif.get('sent_at', '')
                 
                 if timestamp:
                     time_str = format_display_date(timestamp)

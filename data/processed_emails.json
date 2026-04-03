@@ -1,1 +1,16 @@
-{}
+{
+  "280": {
+    "supplier_email": "NextGen <nextgen.components1@gmail.com>",
+    "processed_at": "2026-04-03 11:24:01",
+    "subject": "RFQ \u2013 Aluminum Sheets",
+    "item_code": null,
+    "email_type": "quote"
+  },
+  "281": {
+    "supplier_email": "Pioneer <pioneer.machineparts@gmail.com>",
+    "processed_at": "2026-04-03 11:24:02",
+    "subject": "Quotation for Aluminium Sheet",
+    "item_code": null,
+    "email_type": "quote"
+  }
+}
